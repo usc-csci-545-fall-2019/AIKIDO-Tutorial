@@ -8,11 +8,11 @@
 - git:
     local-name: aikido
     uri: https://github.com/icaros-usc/aikido.git
-    version: master
+    version: wecook
 - git:
     local-name: libada
     uri: https://github.com/icaros-usc/libada.git
-    version: master
+    version: wecook
 - git:
     local-name: pr_control_msgs
     uri: https://github.com/icaros-usc/pr_control_msgs.git

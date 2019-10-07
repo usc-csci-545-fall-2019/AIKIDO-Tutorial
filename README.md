@@ -1,5 +1,6 @@
 # AIKIDO Tutorial
 
+## Setup Instructions
 ### Setting up the workspace
 **Open a terminal and type in following commands**
 ```bash
@@ -28,3 +29,7 @@ $ wstool up
 $ cd $ROS_WORKSPACE
 $ catkin build
 ```
+
+## Run demo
+**Open a terminal and type in following commands**
+
