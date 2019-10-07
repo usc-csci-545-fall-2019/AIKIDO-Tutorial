@@ -1,0 +1,24 @@
+- git:
+    local-name: ada_description
+    uri: https://github.com/icaros-usc/ada_description.git
+    version: master
+- git:
+    local-name: ada_launch
+    uri: https://github.com/icaros-usc/ada_launch.git
+- git:
+    local-name: aikido
+    uri: https://github.com/icaros-usc/aikido.git
+    version: master
+- git:
+    local-name: libada
+    uri: https://github.com/icaros-usc/libada.git
+    version: master
+- git:
+    local-name: pr_control_msgs
+    uri: https://github.com/icaros-usc/pr_control_msgs.git
+- git:
+    local-name: pr_tsr
+    uri: https://github.com/icaros-usc/pr_tsr.git
+- git:
+    local-name: pybind11_catkin
+    uri: https://github.com/icaros-usc/pybind11_catkin.git
