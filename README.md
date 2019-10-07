@@ -69,10 +69,16 @@ $ catkin build
 
 ## Run demo
 **Open a terminal and type in following commands**
+```
 $ roscore
+```
 **Open a terminal and type in following commands**
+```
 $ rviz
+```
 **Open a terminal and type in following commands**
+```
 $ source $ROS_WORKSPACE/devel/setup.bash
 $ cd $ROS_WORKSPACE/src/libada/src/scripts
 $ python simple_trajectories.py
+```
